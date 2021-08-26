@@ -1,4 +1,9 @@
 # Escribe aquí tus funciones...
+def area_rectangulo(base,altura):
+    return base*altura
+
+def volumen_prisma(base2,altura2,profundidad):
+    return area_rectangulo(base2,altura2)*profundidad
 
 def main():
     #escribe tu código abajo de esta línea
